@@ -1,0 +1,5 @@
+how to compile ?
+command : gcc -Wall -o main main.cpp
+
+how to run ?
+command : ./main
