@@ -1,2 +1,2 @@
-# GCC-Tutorial
+# G++ Tutorial
 Learn C language together
