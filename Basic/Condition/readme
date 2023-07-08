@@ -1,0 +1,5 @@
+how to compile ?
+command : g++ -Wall -pedantic -o main main.cpp
+
+how to run ?
+command : ./main
