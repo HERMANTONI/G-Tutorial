@@ -1,5 +1,5 @@
 how to compile ?
-command : gcc -Wall -o main main.cpp
+command : g++ -Wall -pedantic -o main main.cpp
 
 how to run ?
 command : ./main
